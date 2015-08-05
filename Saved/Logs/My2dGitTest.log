@@ -1,0 +1,119 @@
+﻿[2015.08.05-23.32.21:411][  0]Log file open, 08/05/15 16:32:21
+[2015.08.05-23.32.21:411][  0]LogInit:Display: Running engine for game: My2dGitTest
+[2015.08.05-23.32.21:411][  0]LogInit:Display: RandInit(-456359402) SRandInit(-456359401).
+[2015.08.05-23.32.21:411][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads.
+[2015.08.05-23.32.21:411][  0]LogStats: Stats thread started
+[2015.08.05-23.32.21:411][  0]LogInit: Version: 4.8.3-2634408+++depot+UE4-Releases+4.8
+[2015.08.05-23.32.21:411][  0]LogInit: API Version: 2579680
+[2015.08.05-23.32.21:411][  0]LogInit: Compiled (64-bit): Jul 27 2015 16:24:33
+[2015.08.05-23.32.21:411][  0]LogInit: Compiled with Visual C++: 18.00.21005.01
+[2015.08.05-23.32.21:411][  0]LogInit: Build Configuration: Development
+[2015.08.05-23.32.21:411][  0]LogInit: Branch Name: ++depot+UE4-Releases+4.8
+[2015.08.05-23.32.21:411][  0]LogInit: Command line: 
+[2015.08.05-23.32.21:411][  0]LogInit: Base directory: C:/Program Files/Unreal Engine/4.8/Engine/Binaries/Win64/
+[2015.08.05-23.32.21:411][  0]LogInit: Rocket: 1
+[2015.08.05-23.32.21:427][  0]LogInit: Using libcurl 7.41.0
+[2015.08.05-23.32.21:427][  0]LogInit:  - built for x86_64-pc-win32
+[2015.08.05-23.32.21:427][  0]LogInit:  - supports SSL with WinSSL
+[2015.08.05-23.32.21:427][  0]LogInit:  - other features:
+[2015.08.05-23.32.21:427][  0]LogInit:      CURL_VERSION_SSL
+[2015.08.05-23.32.21:427][  0]LogInit:      CURL_VERSION_IPV6
+[2015.08.05-23.32.21:427][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2015.08.05-23.32.21:427][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2015.08.05-23.32.21:427][  0]LogInit:      CURL_VERSION_IDN
+[2015.08.05-23.32.21:427][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2015.08.05-23.32.21:427][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2015.08.05-23.32.21:427][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2015.08.05-23.32.21:427][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2015.08.05-23.32.21:427][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2015.08.05-23.32.21:441][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.08.05-23.32.21:457][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.08.05-23.32.21:466][  0]LogInit: Object subsystem initialized
+[2015.08.05-23.32.21:472][  0]LogInit: Selected Device Profile: [Windows]
+[2015.08.05-23.32.21:472][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.08.05-23.32.21:480][  0]LogInit: Computer: JOSHUA-PC
+[2015.08.05-23.32.21:480][  0]LogInit: User: Joshua
+[2015.08.05-23.32.21:480][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.08.05-23.32.21:480][  0]LogInit: High frequency timer resolution =3.897853 MHz
+[2015.08.05-23.32.21:480][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2015.08.05-23.32.21:480][  0]LogMemory: Platform Memory Stats for Windows
+[2015.08.05-23.32.21:480][  0]LogMemory: Process Physical Memory: 48.04 MB used, 48.04 MB peak
+[2015.08.05-23.32.21:480][  0]LogMemory: Process Virtual Memory: 22.46 MB used, 22.53 MB peak
+[2015.08.05-23.32.21:480][  0]LogMemory: Physical Memory: 4287.09 MB used, 16341.63 MB total
+[2015.08.05-23.32.21:480][  0]LogMemory: Virtual Memory: 298.12 MB used, 134217728.00 MB total
+[2015.08.05-23.32.21:519][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2015.08.05-23.32.21:765][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+Localization Resource: (C:/Program Files/Unreal Engine/4.8/Engine/Content/Localization/Editor/en/Editor.locres) Source String Hash: (-630476809) Localized String: (Import to {0}...)
+Localization Resource: (C:/Program Files/Unreal Engine/4.8/Engine/Content/Localization/Editor/en/Editor.locres) Source String Hash: (1271782899) Localized String: (Imports an asset from file to this folder.)
+[2015.08.05-23.32.22:323][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 760 (Feature Level 11_0)
+[2015.08.05-23.32.22:323][  0]LogD3D11RHI: Adapter has 3995MB of dedicated video memory, 0MB of dedicated system memory, and 8170MB of shared system memory, 2 output[s]
+[2015.08.05-23.32.22:324][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.08.05-23.32.22:324][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
+[2015.08.05-23.32.22:324][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.08.05-23.32.22:331][  0]LogD3D11RHI: InitD3DDevice
+[2015.08.05-23.32.22:331][  0]LogD3D11RHI: !Direct3DDevice
+[2015.08.05-23.32.22:331][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.08.05-23.32.22:350][  0]LogD3D11RHI: Async texture creation enabled
+[2015.08.05-23.32.22:368][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2015.08.05-23.32.23:387][  0]LogTemp:Display: Loaded TP DesktopTargetPlatform
+[2015.08.05-23.32.23:404][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2015.08.05-23.32.23:421][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2015.08.05-23.32.23:438][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2015.08.05-23.32.23:458][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2015.08.05-23.32.23:473][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2015.08.05-23.32.23:488][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2015.08.05-23.32.23:503][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2015.08.05-23.32.23:518][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2015.08.05-23.32.23:535][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2015.08.05-23.32.23:551][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2015.08.05-23.32.23:567][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2015.08.05-23.32.23:582][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2015.08.05-23.32.23:623][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2015.08.05-23.32.23:637][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2015.08.05-23.32.23:652][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2015.08.05-23.32.23:670][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2015.08.05-23.32.23:670][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.08.05-23.32.23:948][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.08.05-23.32.24:030][  0]LogDerivedDataCache: Loaded boot cache 0.08s 53MB C:/Users/Joshua/AppData/Local/UnrealEngine/4.8/DerivedDataCache/Boot.ddc.
+[2015.08.05-23.32.24:030][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Joshua/AppData/Local/UnrealEngine/4.8/DerivedDataCache/Boot.ddc
+[2015.08.05-23.32.24:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file U:/Unreal Projects/My2dGitTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.08.05-23.32.24:030][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.08.05-23.32.24:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file U:/Unreal Projects/My2dGitTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2015.08.05-23.32.24:030][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2015.08.05-23.32.24:171][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.08.05-23.32.24:183][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Joshua/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.08.05-23.32.24:523][  0]LogInit: Selected Device Profile: [Windows]
+[2015.08.05-23.32.24:635][  0]ImportText (ComponentSweepMultiTests): Missing closing parenthesis: (RootShapeAsset="/Engine/BasicShapes/Cube.Cube",ShapeType="TriggerCapsule",HitResult=(Time=0.50,Location=(X=-100.000015,Y=0.0,Z=100.000015),ImpactPoint=(X=-50.0,Y=0.0,Z=50.0),Normal=(X=-1.0,Y=-0.0,Z=0.0),ImpactNormal=(X=0.0,Y=0.0,Z=1.0),TraceStart=(X=-200.0,Y=0.0,Z=200.0),TraceEnd=(X=0.0,Y=0.0,Z=0.0))
+[2015.08.05-23.32.24:651][  0]ImportText (LineTraceSingleByChannelTests): Missing closing parenthesis: (RootShapeAsset="/Engine/BasicShapes/Cube.Cube",HitResult=(Time=0.50,Location=(X=-100.000015,Y=0.0,Z=100.000015),ImpactPoint=(X=-50.0,Y=0.0,Z=50.0),Normal=(X=-1.0,Y=-0.0,Z=0.0),ImpactNormal=(X=0.0,Y=0.0,Z=1.0),TraceStart=(X=-200.0,Y=0.0,Z=200.0),TraceEnd=(X=0.0,Y=0.0,Z=0.0))
+[2015.08.05-23.32.24:682][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.08.05-23.32.24:682][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.08.05-23.32.25:083][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.08.05-23.32.26:459][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.08.05-23.32.26:962][  0]SourceControl: Info Source control is disabled
+[2015.08.05-23.32.26:973][  0]SourceControl: Info Source control is disabled
+[2015.08.05-23.32.26:989][  0]SourceControl: Info Source control is disabled
+[2015.08.05-23.32.27:002][  0]SourceControl: Info Source control is disabled
+[2015.08.05-23.32.27:332][  0]LogObj: 26273 objects as part of root set at end of initial load.
+[2015.08.05-23.32.27:332][  0]LogUObjectAllocator: 5409256 out of 0 bytes used by permanent object pool.
+[2015.08.05-23.32.27:426][  0]LogEngine: Initializing Engine...
+[2015.08.05-23.32.27:430][  0]LogHMD: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.6.0.0
+[2015.08.05-23.32.27:432][  0]LogHMD:Warning: SteamVR failed to initialize.  Error: 100
+[2015.08.05-23.32.27:628][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.08.05-23.32.27:638][  0]LogInit: XAudio2 using 'Speakers (2- Plantronics GameCom 780)' : 6 channels at 44.1 kHz using 16 bits per sample (channel mask 0x60f)
+[2015.08.05-23.32.27:649][  0]LogInit: FAudioDevice initialized.
+[2015.08.05-23.32.27:720][  0]LogDerivedDataCache: Saved boot cache 0.07s 53MB C:/Users/Joshua/AppData/Local/UnrealEngine/4.8/DerivedDataCache/Boot.ddc.
+[2015.08.05-23.32.27:734][  0]LogInit: Texture streaming: Disabled
+[2015.08.05-23.32.27:764][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.08.05-23.32.27:764][  0]LogAnalytics: [UEEditor.Rocket.Release] APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.8.3-2634408+++depot+UE4-Releases+4.8
+[2015.08.05-23.32.27:765][  0]LogAnalytics: [UEEditor.Rocket.Release] SetUserId 030fa47d42d0920c6587f49a0b09e49c|769f8dc3a16c4ce0ae84a812467985c0|933fe437-038c-4ae9-9113-cd6bb983ee7d
+[2015.08.05-23.32.27:765][  0]LogAnalytics: [UEEditor.Rocket.Release] AnalyticsET::StartSession
+[2015.08.05-23.32.27:802][  0]LogInit: Transaction tracking system initialized
+[2015.08.05-23.32.27:988][  0]BlueprintLog: New page: Editor Load
+[2015.08.05-23.32.28:029][  0]LogAssetRegistry: FAssetRegistry took 0.0112 seconds to start up
+[2015.08.05-23.32.28:029][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.08.05-23.32.28:516][  0]LogInit:Warning: CVar named 'r.MobileHDR' marked up in URenderingSettings was not found or is set to read-only
+[2015.08.05-23.32.30:652][  0]LogConsoleManager:Warning: Console variable 'r.VSync' wasn't set ('GameSetting' has a lower priority than 'SystemSettingsIni')
+[2015.08.05-23.32.30:653][  0]LogConsoleResponse:Display: 
+[2015.08.05-23.32.31:069][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2015.08.05-23.32.31:344][  0]SourceControl: Info Source control is disabled
+[2015.08.05-23.32.31:344][  0]Cmd: MAP LOAD FILE="U:/Unreal Projects/My2dGitTest/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TE
